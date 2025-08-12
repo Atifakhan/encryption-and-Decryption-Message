@@ -20,4 +20,25 @@ This project allows users to:
 ---
 
 ## 🛠 How It Works
-Th
+
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the Repository
+```bash
+git clone [https://github.com/Atifakhan/encryption-and-Decryption-Message]
+
+cd caesar-cipher-python
+
+python caesar_cipher.py
+
+===== Caesar Cipher Encryption & Decryption =====
+Enter your message: Hello World!
+Enter shift value (e.g., 3): 3
+
+--- Results ---
+Encrypted Message: Khoor Zruog!
+Decrypted Message: Hello World!
+
